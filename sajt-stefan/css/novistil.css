@@ -1,0 +1,11 @@
+ul.navbar.nav>li>a{
+	letter-spacing:0.2rem;
+	text-transform:uppercase;
+}
+ul.navbar .nav>li.nav-item>.dropdpwm-menu a{
+	letter-spacing:0.15rem;
+}
+.list-unstyled li{
+	padding:1.5rem;
+	border-bottom:1px solid #343a40;
+}
